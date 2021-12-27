@@ -1,72 +1,87 @@
-### Front-end Technologies
+### front-end technologies
+
 - HTML
 - CSS
-- JavaScript
+- javaScript
 - Bootstrap framework
-- Angular
-- ReactJS
+- Angular framework
+- reactJs
+
 
 ### Backend Technologies
+
 - Node.js
-    - express.js
-    - nodemoon
-    - cors
-    - dotenv
-- PHP
-- C#
-- Java
-- Phython
+   - express.js  //middle
+   - nodemoon
+   - cors
+   - dotenv
+-  PHP
+-  C#
+-  Java
+-  python
 
 ### Databases
-
-- Mongodb
+- MongoDb
 - Mysql
-- SQLite
+- SQlite
 - Firebase
-- Postgressql
-- Oracle
+- postgressql
+- oracle
 
-- VCS(source code Management)
-    - Distributed VCS
-        - Git,Mercurial
-    - Remote(Central) VCS(internet is used)
-        - Github,Bitbucket
 
-### git
++ VCS (Source code Management)
+     - Distributed VCS
+         - Git,mercurial
+     - Remote (Central) VCS
+         - Github,Bitbucket
+
+### Git
+
 - git init
 - git add filename
-- git add filename1 filename5 filename100
+- git add filename1 filename2 filename100
 - git add . or git add --all
 - git status
-- Do git configurations (set user.name and user.email)
+- do git configurations (set user.name and user.email)
 - commit data with commit message
-- push the code into github
+- push thecode into github
 
-### HTML5
 
-- Hyper Text Markup Language
-- we have three categories
-    - seamantic Elements(There is no effect on output)
-        - header
-        - section
-        - article
-        - aside
-        - footer
-        - table
-    - Block level Elements(It will occupy entire width of browser)
-        - h1 to h6(range of headings)
-        - p
-        - div
-        - all semantic elements(all semantic elements are block level elements but all block level elements are not semantic elements)
-        - text will start from new line
-    - Inline Elements
-        - span
-        - img
-        - a
-        - nav
-        - form
-        - input
-        - textarea
-        - legend
-        - sup
-        - sub
+### HTML
+
+- Hyper text markup language
+   - to display our information in website
+- latest version html5
+- there are three types of elements in html 
+   - semantic Elements  
+      - heade
+      - section 
+      - article
+      - aside
+      - footer
+      - table 
+
+   - Block level Elements (it occupies entire width of the browser)
+      - h1 to h6 (headings range)
+      - p (paragraph)
+      - div
+      - all sematic elements
+      - Text will start from new line
+
+   - Inline Elements
+      - span
+      - image 
+      - a 
+      - nav
+      - form
+      - input
+      - textarea
+      - legend
+      - sup
+      - sub
+      - ul unordered list
+      - ol
+
+##### referance links
+-[flaticon]
+      
