@@ -140,7 +140,12 @@ Task2:
 - login.html
 #### Responsive Web Design
 #### Flex-box
-
+- display
+    - flex
+        - flex-wrap
+        - justify-content
+        - flex-direction
+        - flex-flow
 + display
   - none
   - inline
