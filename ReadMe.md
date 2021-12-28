@@ -133,6 +133,29 @@
 + width
 - 1rem:16px
 
+Task2:
+=====
+- index.html
+- register.html
+- login.html
+#### Responsive Web Design
+#### Flex-box
+
++ display
+  - none
+  - inline
+  - block
+  - inline-block
++ position
+  - static
+  - relative
+  - absolute
+  - fixed
+  - Sticky
++ align-content
++ align-items
++ align-self
+
 ##### referance links
 - [flaticon]
 - html colour codes
