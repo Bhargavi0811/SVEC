@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>::) CSS Selectors (::</title>
+</head>
+<style>
+div p {
+    background-color: rgba(0, 17, 255, 0.945);
+    color: seashell;
+}
+
+div > p {
+    background-color: sienna;
+    color: skyblue;
+} 
+section+p{
+    font-size: 50px;
+    background-color: tan;
+    color: thistle;
+}
+div+h5{
+    font-size: 100px;
+}
+div~p{
+    background-color: violet;
+}
+</style>
+<body>
+    <div>
+        <p>paragraph1</p>
+        <p>paragraph2</p>
+        <div>
+            <p>paragraph3</p>
+        </div>
+        <section>
+            <p>paragraph4</p>
+            <p>paragraph4</p>
+            <p>paragraph4</p>
+        </section>
+        <p>paragraph5</p>
+        <p>paragraph6</p>
+    </div>
+    <h5>hi hello</h5>
+</body>
+</html>

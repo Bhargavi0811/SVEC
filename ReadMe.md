@@ -105,6 +105,22 @@
      css properties
   }
 
+  ### selectors
+  + simple selectors
+    - By Element name
+    - grouping selector (,)
+    - class selector
+    - Id selector
+  + combinators
+    + Descendent selector ( )
+    + Child Selector (>)
+    + Adjacent sibling selector (+)
+    + general sibling Selector (~)
+ + Pseudo class selector
+ + Pseudo element selector
+ + Attribute Selector 
+   
+
 
 ##### referance links
 - [flaticon]
