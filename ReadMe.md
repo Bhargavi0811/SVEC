@@ -107,6 +107,7 @@
 
   ### selectors
   + simple selectors
+    - Universal Selectors (*)  for all
     - By Element name
     - grouping selector (,)
     - class selector
@@ -120,7 +121,17 @@
  + Pseudo element selector
  + Attribute Selector 
    
+### Box Modal
 
++ margin
++ border
++ padding
+  - padding :10px (for all adjacent sides)
+  - padding :10px 30px (10px for top and bottom:30px for left and right)
+  - padding :10px 300px 50 px (10px for top;300px for left and right;50px for for bottom)
+  - padding :10px 30px 4px 50px (top,right,bottom,left)
++ width
+- 1rem:16px
 
 ##### referance links
 - [flaticon]
