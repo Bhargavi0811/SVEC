@@ -82,6 +82,32 @@
       - ul unordered list
       - ol
 
+ ### html elements task:
+ - audio
+ - video
+ - progress
+ - meter
+ - datalist
+ - select
+ - canvas
+
+ ### css
+
+ + cascading style sheets (to butify our entire project)
+ + three ways to apply css to html
+   - Inline CSS
+   - Internal CSS
+   - External CSS
++ syntax of css
+  
+  ...
+  selector {
+     css properties
+  }
+
+
 ##### referance links
--[flaticon]
-      
+- [flaticon]
+- html colour codes
+- [webaim contrast checker] (https://webaim.org/resources/contrastchecker/)
+
