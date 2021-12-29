@@ -161,8 +161,40 @@ Task2:
 + align-items
 + align-self
 
+### media Quaries
+- Extra small devices (mobiles)
+  - max-width:600px
+- Small devices (large phones)
+  - min-width:600px
+- medium (Small laptops)
+  - min-width:760px
+- large (laptops/desktops)
+  - min-width:992px
+- Extra large devices()
+  - min-width:1200px
+
+
+...
+@media only screen (max-width:320px) and (max-width:500px){
+   CSS code
+}
+...
+
+### Bootstrap 4.6
+
+- its is a Css framework
+
+### Difference b/w 
+
+- module (collection of functions and classes)
+- package (collection of modules)
+- library (collection of packages)
+- framework (collection of library)
++ module --> package --> Library --> frameWork
+
+
 ##### referance links
 - [flaticon]
 - html colour codes
 - [webaim contrast checker] (https://webaim.org/resources/contrastchecker/)
-
+- getbootstrap
