@@ -184,13 +184,57 @@ Task2:
 
 - its is a Css framework
 
-### Difference b/w 
+Task3:
+====
+    - Navbar with Responsive
+- module(collection of functions and we can maintain classes and objects also)
+- Package(collection of modules)
+- Library(collection of packages)
+    - Reactjs is a Library
+- framework(collection of library)
++ module-->Package-->Library-->Framework
 
-- module (collection of functions and classes)
-- package (collection of modules)
-- library (collection of packages)
-- framework (collection of library)
-+ module --> package --> Library --> frameWork
++ Type of Modes
+    - offline
+    - online
+        - CDN links
+
++ background-color - bg-clor
++ text-white
++ Margin in Bootstrap(m-*(0,5))
+    - 0 --> 0rem
+    - 1 --> 0.25rem(4 px)
+    - 2 -->0.5rem(8 px)
+    - 3 --> 1 rem(16px)
+    - 4 --> 1.5rem(24px)
+    - 5 -->3rem(48px)
+    -  ml-5(Margin-left)
+    -  m(margin in all diections)
+    - mb (margin-bottom)
+    - mt(margin-top)
+    - mr (margin -right)
++ Padding (Padding-left-->pl-5)
++ colors
+    - primary
+    - secondary
+    - info
+    - success
+    - warning
+    - danger
+    - light
+    - dark
+    - white
++ we can use color classes for
+    - Buttons (btn btn- primary)
+    - text (text-white)
+    - background (bg-secondary)
+    - alerts (alert alert-primary)
++ Grid System
+    -   col-sm-12
+    - sm (small devices)
+    - md (medium devices)
+    - lg (large devices)
+    - xl (Extra large devices)
 
 
 ##### referance links
