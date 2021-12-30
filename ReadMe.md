@@ -236,9 +236,61 @@ Task3:
     - lg (large devices)
     - xl (Extra large devices)
 
+#### JavaScript
+
++  to apply dynamic behaviour to web page
++ in 1995 'Brenden eich' introduced JavaScript (ES-262)
++ Javascript loosely touple(no need to mention data type) and dynamic language 
++ it is a text-based programming language and we can run in client-side and serverside for (Node.js) 
+  dynamic web applications
+- collabarated with ECMA-Script (ES-6)
+     - let & const
+     - map() for iteration purpose
+     - arrow function
+     - classes
+     - spread operator
+     - rest parameter
++ Datatypes
+     - Number
+     - BigInt (2^53-1)
+     - String
+     - Boolean
+     - undefine
+     - Null
+     - Object
+     - Array
++ Variables
+     - var ( Keyword to create variable ) ,let & const
+     - Scope
+        - function level  --> var
+        - block level     --> let & const
+     - ReDefine --> var,let
+     - ReDeclare --> var
++ 'typeof()'
++ object
+...
+{
+  name:"kalyan"
+}
+...
+
+### Alerts
+
++ To generate notifications
+   - alert
+   - prompt (to take input from user)
+   - confirm
+
++ console statements
+   - `console.log()`
+   - `console.info()` 
+   - `console.warn()`
+   - `console.error()`
+
 
 ##### referance links
 - [flaticon]
 - html colour codes
 - [webaim contrast checker] (https://webaim.org/resources/contrastchecker/)
 - getbootstrap
+- JSON online validator
