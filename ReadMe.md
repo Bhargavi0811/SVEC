@@ -287,6 +287,207 @@ Task3:
    - `console.warn()`
    - `console.error()`
 
++ Spread Operator
+    - to change array elements from one array to another (swap)
+     ...
+
+     ...variablename
++ Rest Operator
+   + to handle function parameters
+
+     ...
+     ...parameter
+     ...
+
++ Destructuring of array & objects
+
++ Functions
+  - function with function name
+  
+  ...
+  function demo(x,y){
+    return x+y
+  }
+  demo()
+  ...
+
+   - Annoymous function
+   ...
+   let demo= (x,y) => {
+     return x*y
+   }
+   demo(3,4)
+   ...
+
+   + for-in
+      - to get index values of an array
+   + for-of
+      - To get elements in an array
+   
+   + forEach() --> (ES-5)
+   + map() --> (ES-6)
+
+### DOM
+
+   - Document object Model
+   - document
+   - history
+   - window
+   - navigator (to access info without internet)
+
++ DOM methods
+   - `getElementById()`
+   - `getElementByClassName()`
+   - `querySelector`
+   - `innerText`
+   - `append`
+   - `appendChild`
+   - `innerHTML`
+   - `setAttribute`
+   - `classList`
+   - `style`
+   - `src`
+   - `textContent`
+
+#### JSON
++ javaScript object Notation
+     - To exchange information between application and server
+     - syntax
+     ...
+     {
+       "name":"Kalyan Chakravarthi paladugu",
+       "salary":"6.5Lpa",
+       "designation":"Software developer",
+       "mobile":98765543212
+     }
+     ...
+
++ Ajax call or Promises (fetch API) or axios
+
+#### fromt-end with ReactJS
+
++ A JavaScript library for building user interfaces
++ Facebook,Instagram,netflix
++ it follows component based Architecture
+   - Function Component
+   - Class commponent
+   - Pure Component
+   - Higher order Component
++ It provides Virtual DOM
++ It provides JSX (JavaScript and XML)
++ Unidirectional data flow
++ Single Page Applications(only one html file i.e.;index page)
+
+
++ Project Environment setup
+   
+    - [Download Visual studio code] ()
+    - [Download nodejS] (https://nodejs.org/en/download/)
+    - install nodejs and chack versions of `node` and `npm`
+        - `node -v`
+        - `npm -v`
+
+    - `webpack` and `babel` (for project creation)
+    - by using command `create-react-app`
+         - `npm install create-react-app`  (node package management-npm)
+                - `create-react-app projectname`
+    - `npx create-react-app appname`
+
++ Index.html
++ index.js
++ index page
+    - nav.js
+    - body.js
+    - footer.js
+    + Home.ja
+       - nav
+       - body
+       - footer
+    + login.js
+    + register
+    + about
+    + contact
+
++ Functional Component
+      - doesnt import package
++ Class Component
+      - imports package
+
++ props
+    - To pass data from one component to another component we will use props
+    - Props are immutable
+
+    + Unionbank (Functional)
+        - AndhraBank (Functional)
+        - CorporationBank(Class)
+
+
++ States 
+
+- In react to maintain information we will use States
+- We can maintain states in class component only (Before react16.8 version)
+- To take state in react,Try to create constructor above render method and inside of class component
+- Use  `rconst` snippet
+
+...
+constructor(){
+   super();
+   this.state={
+
+   }
+}
+...
+
+
+- To update the state information in class component use  `setState()` method
++ To update the state information in class component we have to follow component life cycle methods
+   - `componentWillMount()`
+   - `ShouldUpdate()`
+   - `componentDidMount()`
+   - `componentWillUpdate()`
+   - `componentDidUpdate()`
+   - `componentWillUnMount()`
+
+
+
+#### Hooks
+
++ from reack16.8 Hooks are introduced
+- To maintain information in Functional component we can use Hook
+
+- Parent - Child1 --> child2 --> child3
+- `usestate()` 
+- `useEffect()`
+- `useMemo()`
+- `useref()`
+- `useContext()`
+
+
+#### List Rendering
+
+
+### Event Handling & Form Handling
+
+- `onChange`
+- `onSubmit`
+- `preventDefault()`
+
+
+#### eouting in React
+
++ To navigate (Route) from one component to another
+    - install react-router -dom package by using `npm install react-router-dom`
+    - `BrowswerRouter`
+    - `Routes`
+    - `Route`
+    - `link`
+    - `path`
+    - `element`
+    
+
++ Redex
+
+
 
 ##### referance links
 - [flaticon]
